@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/NetflixClone/static/css/main.7bc2c95f.css",
-    "main.js": "/NetflixClone/static/js/main.3e2741bd.js",
-    "static/js/453.ed3810f9.chunk.js": "/NetflixClone/static/js/453.ed3810f9.chunk.js",
-    "static/media/asset-backgroundimage.jpg": "/NetflixClone/static/media/asset-backgroundimage.1f7c45f44fb343f7f155.jpg",
-    "static/media/secondsectionvideo.m4v.m4v": "/NetflixClone/static/media/secondsectionvideo.m4v.4c1a4787988d23b1039c.m4v",
-    "static/media/fifthsectionimage.png": "/NetflixClone/static/media/fifthsectionimage.836efd88498e14ebed8e.png",
-    "static/media/fourthsectionimage.png": "/NetflixClone/static/media/fourthsectionimage.ff81d825b399d890f9b4.png",
-    "static/media/fourthsectionvideo.m4v": "/NetflixClone/static/media/fourthsectionvideo.81bb66955f7e9654e354.m4v",
-    "static/media/thirdimagephone.jpg": "/NetflixClone/static/media/thirdimagephone.063578d5b6d5ab4155ec.jpg",
-    "static/media/downloadicon.gif": "/NetflixClone/static/media/downloadicon.1ce72c891b52e6f68f2f.gif",
-    "static/media/loading.gif": "/NetflixClone/static/media/loading.46cfb234293fc34fa861.gif",
-    "static/media/thirdsectionstrangerthingsimage.png": "/NetflixClone/static/media/thirdsectionstrangerthingsimage.347f4ee3bafbdfe71112.png",
-    "static/media/tv.png": "/NetflixClone/static/media/tv.0049bc70babc1f94cf88.png",
-    "static/media/logo.svg": "/NetflixClone/static/media/logo.fcf6a7f6fdd93eaf4c83ba626dff2ae3.svg",
-    "static/media/languagelogo.svg": "/NetflixClone/static/media/languagelogo.eec1b047a3540f4d189259e29d405ee9.svg",
-    "static/media/cross.svg": "/NetflixClone/static/media/cross.238301b83efea42fe34aea6f2842a0d0.svg",
-    "index.html": "/NetflixClone/index.html",
-    "static/media/getstartedarrow.svg": "/NetflixClone/static/media/getstartedarrow.6ebd959a325ad1440214e4a88f28b525.svg",
-    "main.7bc2c95f.css.map": "/NetflixClone/static/css/main.7bc2c95f.css.map",
-    "main.3e2741bd.js.map": "/NetflixClone/static/js/main.3e2741bd.js.map",
-    "453.ed3810f9.chunk.js.map": "/NetflixClone/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/First-Project/static/css/main.e648439a.css",
+    "main.js": "/First-Project/static/js/main.68a54af0.js",
+    "static/js/453.ed3810f9.chunk.js": "/First-Project/static/js/453.ed3810f9.chunk.js",
+    "static/media/asset-backgroundimage.jpg": "/First-Project/static/media/asset-backgroundimage.1f7c45f44fb343f7f155.jpg",
+    "static/media/secondsectionvideo.m4v.m4v": "/First-Project/static/media/secondsectionvideo.m4v.4c1a4787988d23b1039c.m4v",
+    "static/media/fifthsectionimage.png": "/First-Project/static/media/fifthsectionimage.836efd88498e14ebed8e.png",
+    "static/media/fourthsectionimage.png": "/First-Project/static/media/fourthsectionimage.ff81d825b399d890f9b4.png",
+    "static/media/fourthsectionvideo.m4v": "/First-Project/static/media/fourthsectionvideo.81bb66955f7e9654e354.m4v",
+    "static/media/thirdimagephone.jpg": "/First-Project/static/media/thirdimagephone.063578d5b6d5ab4155ec.jpg",
+    "static/media/downloadicon.gif": "/First-Project/static/media/downloadicon.1ce72c891b52e6f68f2f.gif",
+    "static/media/loading.gif": "/First-Project/static/media/loading.46cfb234293fc34fa861.gif",
+    "static/media/thirdsectionstrangerthingsimage.png": "/First-Project/static/media/thirdsectionstrangerthingsimage.347f4ee3bafbdfe71112.png",
+    "static/media/tv.png": "/First-Project/static/media/tv.0049bc70babc1f94cf88.png",
+    "static/media/logo.svg": "/First-Project/static/media/logo.fcf6a7f6fdd93eaf4c83ba626dff2ae3.svg",
+    "static/media/languagelogo.svg": "/First-Project/static/media/languagelogo.eec1b047a3540f4d189259e29d405ee9.svg",
+    "static/media/cross.svg": "/First-Project/static/media/cross.238301b83efea42fe34aea6f2842a0d0.svg",
+    "index.html": "/First-Project/index.html",
+    "static/media/getstartedarrow.svg": "/First-Project/static/media/getstartedarrow.6ebd959a325ad1440214e4a88f28b525.svg",
+    "main.e648439a.css.map": "/First-Project/static/css/main.e648439a.css.map",
+    "main.68a54af0.js.map": "/First-Project/static/js/main.68a54af0.js.map",
+    "453.ed3810f9.chunk.js.map": "/First-Project/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bc2c95f.css",
-    "static/js/main.3e2741bd.js"
+    "static/css/main.e648439a.css",
+    "static/js/main.68a54af0.js"
   ]
 }
